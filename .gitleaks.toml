@@ -1,0 +1,16 @@
+# Gitleaks configuration for Academix
+title = "Academix Secret Detection Config"
+
+[allowlist]
+description = "Allowed files, placeholders, and community license tokens"
+paths = [
+  '''(?i).*\.example(\..*)?$''',
+  '''(?i)FLUTTERFIRE_SETUP\.md''',
+  '''(?i)PUSH_NOTIFICATIONS_CHECKLIST\.md''',
+  '''(?i)firebase_rules\.md''',
+  '''(?i)assets/.*''',
+]
+regexes = [
+  '''YOUR_[A-Z0-9_]+''',
+  '''Ngo9BigBOggjHTQxAR8/V1JHaF5cWWdCf1FpRmJGdld5fUVHYVZUTXxaS00DNHVRdkdlWXted3RcQ2hYUEB0XkpWYEo=''',
+]
