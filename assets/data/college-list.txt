@@ -1,0 +1,736 @@
+1	001	Anand Engineering College, Artoni
+2	002	Faculty of Engineering & Technology, Agra College
+3	004	Raja Balwant Singh Engineering Technical Campus
+4	005	Raja Balwant Singh Management Technical Campus
+5	006	Agra Public Institute of Technology & Computer Education, Artoni
+6	243	College of Pharmacy, Jakhoda
+7	244	Anand College of Pharmacy
+8	324	Anjali College of Pharmacy & Science Etmadpur
+9	338	K.P. Engineering College, Etmadpur
+10	394	College of Business Studies, Sikandara
+11	448	Neelam College of Engineering & Technology, Kirawali
+12	547	Chaudhary Beeri Singh College of Engineering & Management, Near Peeli Pokhar, Teh.- Etmadpur
+13	617	Uttam Institute of Management Studies, Runakta, Kirawali Road
+14	659	Heritage Institute of Hotel & Tourism
+15	697	Agra Public College of Technology & Management
+16	706	Agra Vansthali Mahavidyalaya
+17	798	Anand college of Architecture
+18	799	ACE College of Engineering & Management, Etmadpura
+19	812	CBS College of Management
+Akbarpur
+S.No	Institute Code	Name of College
+1	737	Rajkiya Engineering College, Ambedkar Nagar
+Aligarh
+S.No	Institute Code	Name of College
+1	007	Shivadan Singh Institute of Technology and Management
+2	109	Aligarh College of Engineering & Technology
+3	175	Al Barkat Institute of Management Studies
+4	234	Aligarh College of Pharmacy
+5	339	ACN College of Engineering & Management Studies, Kasimpur Road, VIll.- Cherrat
+6	340	Vivekanand College of Technology & Management, Near Khair Road
+7	341	Institute of Technology & Management, Aligarh-Palwal-Delhi Road, Karsua
+8	518	SSLD Varshney Engineering College, Aligarh - Kanpur G.T. Road
+9	524	Vision Institute of Technology, Shahpur Madrak
+10	689	Institute of Information Management & Technology
+11	708	SSLD Varshney Institute of Management & Engineering
+Allahabad
+S.No	Institute Code	Name of College
+1	010	United College of Engineering & Research
+2	011	United Institute of Management
+3	110	Institute of Engineering & Rural Technology
+4	138	B.B.S.College of Engineering and Technology
+5	155	Ewing Christian Institute of Management & Technology
+6	162	Shambhunath Institute of Engg. & Technology
+7	241	Shambhunath Institute of Pharmacy
+8	283	LDC Institute of Technical Studies
+9	284	United Institute of Technology
+10	315	United Institute of Pharmacy, United College of Engg. & Research
+11	342	United College of Engineering & Management
+12	411	H.M.F.A.Memorial Institute of Engineering & Technology
+13	461	Chatrapati Shahu Ji Maharaj College of Engineering and Technology
+14	575	Malti Memorial Trusts CSM "group of Institutions", Faculty of B. Pharmacy
+15	576	Faculty of Management, CSM Group of Institutions
+16	625	Sanskar College of Management & Computer Application
+17	643	Abhay Memorial Trust Group of Institutions
+18	657	Krishnarpit Institute of Pharmacy
+19	661	Krishnarpit Institute of Management & Technology
+20	688	Devprayag Institute of Management
+21	727	Shambhunath Institute of Management
+22	740	Prayag Institute of Technology & Management
+Amethi
+S.No	Institute Code	Name of College
+1	167	Rajarshi Rananjay Singh College of Pharmacy
+2	383	Rajarshi Rananjay Singh Institute of Management & Technology
+Amroha district
+Amroha
+S.No	Institute Code	Name of College
+1	256	DNS College of Engineering & Technology, Didoli
+2	493	Maharaja Agrasen College of Engineering & Technology, Dhanaura
+3	647	Indraprasth Institute of Technology
+4	780	Landmark Technical Campus Didauli
+5	815	Amani Group of Institutions, Amroha
+6	859	Mesco Institute of Pharmacy
+7	886	Yogendra Nath Saxena College of Pharmacy & Research
+Gajraula
+S.No	Institute Code	Name of College
+1	726	Institute of Management & Science
+2	825	IMS
+Azamgarh
+S.No	Institute Code	Name of College
+1	012	Pharmacy College
+2	233	R.K Pharmacy College
+3	455	Navneet College of Technology & Management
+4	535	Rajendra Prasad College of Management
+5	736	Rajkiya Engineering College, Azamgarh
+6	860	RAHUL SANKRITYAYAN COLLEGE OF PHARMACY
+Baghpat
+S.No	Institute Code	Name of College
+1	013	Shri Gopichand College of Pharmacy
+2	542	Shri Krishan College of Engineering, Singhawali Ahir
+3	800	JagMohan Institute of Management and Technology, Khekada
+4	861	SARAS COLLEGE OF PHARMACY
+Ballia
+S.No	Institute Code	Name of College
+1	764	Smt.Fulehra Smarak College of Pharmacy
+Balrampur
+S.No	Institute Code	Name of College
+1	261	Shakti College of Pharmacy, Dulhinpur
+Banda
+S.No	Institute Code	Name of College
+1	139	Kali Charan Nigam Institute of Technology
+2	734	Rajkiya Engineering College, Banda
+Barabanki
+S.No	Institute Code	Name of College
+1	141	Sagar Institute of Technology & Management
+2	269	Sherwood College of Pharmacy
+3	281	Sherwood College of Engineering Research & Technology
+4	301	Sagar Institute of Technology & Management Department of Pharmacy
+5	345	Seth Vishambhar Nath Institute of Engineering & Technology
+6	447	Gokaran Narvadeshwar Institute of Technology & Management
+7	545	Jahangirabad Educational Trust's Group of Institutions, Faculty of Engineering
+8	599	Jahangirabad Educational Trust's Group of Institutions, Faculty of Management
+9	669	Seth Vishambhar Nath Institute of Management Studies & Research
+10	862	Seth Vishambhar Nath Institute of Pharmaceutical Sciences
+11	863	Seth Vishambhar Nath Institute of Pharmacy
+12	864	TRC MAHAVIDYALAYA, DEPARTMENT OF PHARMACY
+13	865	AUROUS INSTITUTE OF MANAGEMENT
+Bareilly
+S.No	Institute Code	Name of College
+1	014	Shri Ram Murti Smarak College of Engineering & Technology
+2	016	Rakshpal Bahadur Management Institute
+3	142	Khandelwal College of Management Science and Technology
+4	169	Rakshpal Bahadur College of Pharmacy
+5	319	Rakshpal Bahadur College of Engineering & Technology
+6	450	Shri Ram Murti Smarak College of Engineering, Technology & Research
+7	474	Shri Siddhi Vinayak Institute of Technology
+8	475	Shri Jeet Ram Smarak Institute of Engg. and Technology
+9	476	Future Institute of Engineering & Technology
+10	479	Rajshree Institute of Management & Technology
+11	486	A.N.A. College of Engineering & Management
+12	566	Future Institute of Management and Technology
+13	595	Srajan Institute of Management & Technology
+14	597	Khandelwal College of Architecture & Design
+15	604	Prem Prakash Gupta Institute of Management
+16	635	Jyoti College of Management Science and Technology
+17	653	Prem Prakash Gupta Institute of Engineering
+18	687	ANA College of Management Studies
+19	703	Shri Siddhi Vinayak Institute of Management
+20	757	Utkarsh College of Management Education
+21	760	Lotus Institute of Management
+22	827	Mascot Institute of Management
+23	850	Future Institute of Pharmacy
+24	866	A.N.A Institute of Pharmaceutical Sciences & Research
+25	867	S.R. INSTITUTE OF PHARMACY
+26	868	STELLER INSTITUTE OF PHARMACY
+Bhadohi
+S.No	Institute Code	Name of College
+1	112	Indian Institute of Carpet Technology
+Bijnor district
+Bijnor
+S.No	Institute Code	Name of College
+1	017	Kunwar Satya Vira College of Engineering & Management
+2	210	Vivek College of Technical Education
+3	438	Vivek College of Management & Technology
+4	481	KLS institute oF Engineering & Technology, Vill- Khudaheri, Bijnor -Hardwar Road
+5	499	Veer Kunwar Institute of Technology
+6	501	R.V. Institute of Technology
+7	735	Rajkiya Engineering College, Bijnor
+8	844	Janta College of Pharmacy
+9	845	Krishna Pharmacy College
+10	869	Krishna Institute
+Dhampur
+S.No	Institute Code	Name of College	Fields of study
+1	306	Disha Institute of Science & Technology, Dhampur	Management, Computer Science[4]
+Najibabad
+S.No	Institute Code	Name of College	Fields of Study
+1	480	North India Institute of Technology	Engineering, Management[5]
+Bulandshahr district
+Bulandshahr
+S.No	Institute Code	Name of College
+1	018	Babu Banarsi Das Institute of Engineering Technology & Research Centre
+2	019	Marathwada Institute of Technology
+3	395	V.Tech Institute Of Integrated Technology
+4	671	Brahmanand Group of Institutions
+5	785	G & R Institute of Management and Technology
+6	790	School of Business Management and Technology, Khurja Road
+7	806	Brahmanand Institute of Research Technology & Management
+8	870	D.N. College
+9	871	Hillwood Medical School
+Khurja
+S.No	Institute Code	Name of College
+1	710	Ch. Harchand Singh College of Management
+2	741	J.K. Institute of Pharmacy and Management, Khurja
+Etawah
+S.No	Institute Code	Name of College
+1	171	Shri R.L.T. Institute of Pharmaceutical Science & Technology
+2	236	Sri Madan Lal Institute of Pharmacy
+3	265	Sir Madan Lal Institute of Management
+4	603	Shri RLT Institute of Management
+Faizabad
+S.No	Institute Code	Name of College
+1	026	Faculty of Management, Jhunjhunwala Degree College
+2	743	Bhavdiya Institute of Business Management
+3	851	Bhavdiya Institute of Pharmaceutical Sciences and Research
+Farrukhabad
+S.No	Institute Code	Name of College
+1	759	Dr. Om Prakash Institute of Management & Technology
+2	872	Dr. Om Prakash School Of Pharmacy
+Fatehpur
+S.No	Institute Code	Name of College
+1	456	Pratap College of Management, Vill.Sindhav
+2	590	Trivedi Institute of Management & Technology
+3	873	Shiv Bali Singh Group of Educational and Training Institute College of Pharmacy
+Firozabad
+S.No	Institute Code	Name of College
+1	541	Dushyant college of pharmacy
+Gautam Buddha Nagar district
+Dadri
+S.No	Institute Code	Name of College
+1	096	Vishveshwarya Group of Institutions
+2	204	R.V. Northland Institute
+3	286	Vishveshwarya Institute of Technology
+4	533	R.V. Northland Institute of Management
+Greater Noida
+S.No	Institute Code	Name of College
+1	088	Apeejay Institute of Technology, School of Architecture & Planning
+2	090	IEC College of Engineering and Technology
+3	093	Ram-Eesh Institute of Vocational and Technical Education
+4	094	Galgotias Institute of Management & Technology
+5	097	Galgotias College of Engineering and Technology
+6	099	Harlal Institute of Management & Technology
+7	132	Greater Noida Institute of Technology
+8	133	Noida Institute of Engineering and Technology
+9	150	IILM College of Engineering and Technology
+10	151	Global Institute of Information Technology
+11	152	Mangalmay Institute of Engineering & Technology
+12	153	Sky line Institute of Engineering & Technology
+13	172	Lloyd Institute of Management & Technology
+14	192	GL Bajaj Institute of Technology and Management
+15	193	United College of Engineering and Research
+16	211	Rakshpal Bahadur Management Institute
+17	212	United Institute of Management
+18	214	H.I.M.T. College of Pharmacy
+19	216	IIMT College of Engineering
+20	222	I.T.S. Engineering College
+21	225	Accurate Institute of Management and Technology
+22	227	Innovative College of Pharmacy
+23	230	Dronacharya Group of Institutions
+24	238	NIMT Institute of Hospital & Pharma Management
+25	247	I.I.M.T. College of Pharmacy
+26	272	Greater Noida Institute of Technology (MBA Institute)
+27	273	Noida Institute of Engineering & Technology (MCA Institute)
+28	277	Patronage Institute of Management Studies
+29	295	B.B.S. Institute of Pharmaceutical & Allied Science
+30	323	Spectrum Institute of Pharmaceutical Science & Research
+31	492	KCC Institute of Technology and Management
+32	588	Prince Institute of Innovative Technology
+33	654	Sarvottam Institute of Technology & Management
+34	663	KCC Institute of Management
+35	681	Lloyd Business School
+36	686	Accurate Institute of Advanced Management
+37	692	Sky Line Institute of Management & Technology
+38	717	FMG Academy Group of Institutions
+39	786	Mangalmay Institute of Engineering and Technology, Knowledge Park
+40	801	G.L Bajaj Institute of Management and Research
+41	803	Greater Noida Institute of Business Management
+42	805	Accurate Institute of Architercture & Panning
+43	810	Greater Noida College of Technology
+44	852	Metro College of Health Sciences & Research
+45	874	Ch. Charan Singh College of Pharmacy
+46	875	Skyline Institute of Pharmacy
+47	876	Maharishi Institute of Management
+Noida
+S.No	Institute Code	Name of College
+1	091	J.S.S. Academy of Technical Education
+2	095	Mahatma Gandhi Mission College of Engineering & Technology
+3	098	Institute of Management Studies
+4	733	Hierank Business School
+5	857	U.P. Institute of Design, Noida
+Ghaziabad district
+Ghaziabad
+S.No	Institute Code	Name of College
+1	027	Ajay Kumar Garg Engineering College
+2	028	Ideal Institute of Technology
+3	030	Indraprastha Engineering College
+4	032	ABES Engineering College
+5	033	Raj Kumar Goel Institute of Technology
+6	035	Babu Banarasi Das Institute of Technology, Duhai
+7	036	Institute of Management Studies, Ghaziabad
+8	037	Institute of Management Education
+9	038	Institute of Technology & Science, Mohan Nagar
+10	039	Institute of Management and Research
+11	113	Integrated Academy of Management & Technology{inmantec}
+12	114	Institute of Professional Excellence & Management
+13	116	Jaipuria institute of management
+14	117	Ram Chameli Chaddha Vishwas Girls College
+15	143	IMS Engineering College
+16	161	Krishna Engineering College
+17	194	H.R. Institute of Technology, Morta
+18	215	Sanskar College of Engineering & Technology
+19	220	Hi-Tech Institute of Engineering & Technology
+20	223	Viveknanad Institute of Technology & Science, Jindal Nagar
+21	231	R.D. Engineering College, Duhai
+22	237	H.R. Institute of Hotel Management, Morta
+23	240	Sunderdeep Engineering College, Dasna
+24	245	H.R. Institute of Pharmacy, Morta
+25	259	Sunderdeep Pharmacy College, Dasna
+26	290	ABES Institute of Technology
+27	326	Sunder Deep College of Hotel Management, Dasna
+28	327	Sunder Deep College of Architecture, Dasna
+29	331	Devender Singh Institute of Technology & Management
+30	333	Raj Kumar Goel Institute of Technology & Management
+31	334	Rishi Chadha Vishvas Girls Institute of Technology for Women
+32	389	Oxford College of Pharmacy, Mussori-Gulawati, NTPC Road
+33	412	Aryan Institute of Technology, Jindal Nagar
+34	414	Bhagwati Institute of Technology and Science, Masuri
+35	579	HLM College, 11 km. Delhi-Meerut Road
+36	622	Modern Institute of Technology and Management, Duhai
+37	645	Ideal Institute of Management and Technology
+38	679	ITERC College of Management
+39	783	R.D. Engineering College Research Center, Duhai
+40	792	Institute of Advanced Management and Research
+41	796	Adhunik College of Engineering, Duhai
+42	797	Adhunik Institute of Productivity Management and Research
+43	802	Nitra Technical Campus
+44	820	Ajay Kumar Garg Institute of Management
+45	826	Sanskar College of Architecture & Planning
+46	834	Integrated Academy of management & Technology
+47	836	Bhagwant Institute of Technology
+48	846	Sanskar College of Pharmacy & Research
+49	877	BBDIT COLLEGE OF PHARMACY
+Modinagar
+S.No	Institute Code	Name of College
+1	077	Dr. K.N.Modi institute of Engineering & Technology
+2	078	Dr. K.N. Modi Institute of Pharmaceutical Science & Research
+3	079	Unique Institute of Management & Technology
+4	195	KNGD Modi Engineering College
+5	226	D.J.College of Engineering & Technology
+6	445	Dr. Ram Manohar Lohia Institute
+7	449	K.S. Jain Institute of Engineering & Technology
+8	507	R.D. Foundations Group of Institutions, Faculty of Engineering, Kadrabad
+9	587	RD Foundation's Group of Institutions, Faculty of Management
+10	878	D.J. College of Pharmacy
+11	879	Dr. Ram Manohar Lohia College of Pharmacy
+Muradnagar
+S.No	Institute Code	Name of College
+1	029	Krishna Institute of Engineering and Technology
+2	170	I.T.S. College of Pharmacy
+3	199	KIET School of Pharmacy
+Ghazipur
+S.No	Institute Code	Name of College
+1	040	Technical Education & Research Institute
+2	880	Lutawan Institute of Pharmacy
+3	881	Satyadeo College of Pharmacy
+Gonda
+S.No	Institute Code	Name of College
+1	041	Acharya Narendra Dev College of Pharmacy
+2	118	Nandani Nagar Mahavidayala College of Pharmacy
+3	390	K.R.S. College of Pharmacy
+4	403	K.R.S. College of Management
+5	752	Nandini Nagar Technical Campus
+Gorakhpur
+S.No	Institute Code	Name of College
+1	120	Institute of Technology & Management
+2	408	Chandra Mauli Institute of Management Sciences & Technology
+3	490	Suyash Institute of Information Technology
+4	516	Kailash Institute of Pharmacy & Management
+5	517	KIPM College of Management
+6	525	Buddha Institute of Technology
+7	571	Dr. B.R. Ambedkar Pooja College of Pharmacy
+8	751	KIPM College of Engineering & Technology
+9	766	Purvanchal Institute of Architecture & Design, Gida[6]
+10	882	tahira institute of medical sciences
+Hapur district
+Garhmukteshwar
+S.No	Institute Code	Name of College
+1	413	Vedant Institute of Management & Technology
+Hapur
+S.No	Institute Code	Name of College
+1	224	Lord Krishna College of Engineering, Pilkhuwa
+2	330	Saraswati Institute of Engineering & Technology, Pilkhuwa
+3	705	JMS Group of Institutions
+Hardoi
+S.No	Institute Code	Name of College
+1	260	Ibne Seena Pharmacy College
+Hathras
+S.No	Institute Code	Name of College
+1	512	MASS College of Engineering and Management, Hathras
+Jaunpur
+S.No	Institute Code	Name of College
+1	144	Prasad Institute of Technology
+2	453	Kunwar Haribansh Singh College of Pharmacy
+3	746	Kunwar Haribansh Singh Institute of Management
+4	883	RDS College of Pharmacy
+Jhansi
+S.No	Institute Code	Name of College
+1	043	Bundelkhand Institute of Engineering & Technology
+2	145	SR Group of Institutions College of Science and Engineering
+3	168	Smt. Vidyawati College of Pharmacy
+4	387	SR Group of Institutions College of Pharmacy
+5	715	SR Group of Institutions College of Engineering Management & Technology
+6	855	Shri Rawatpura Sarkar Institute of Pharmacy
+7	884	Doodhnath College of Pharmacy
+8	885	M.C.S.College of Science And Technology
+Kannauj
+S.No	Institute Code	Name of College
+1	839	Rajkiya Engineering College, Kannauj
+Kanpur
+S.No	Institute Code	Name of College
+1	044	Uttar Pradesh Textile Technology Institute
+2	046	Maharana Pratap Engineering College
+3	047	Dr. Virendra Swarup Institute of Computer Studies
+4	048	Dayanand Academy of Management Studies
+5	050	College of Management Studies
+6	164	Pranveer Singh Institute of Technology
+7	165	Kanpur Institute of Technology
+8	166	Dr. Ambedkar Institute of Technology For Handicapped
+9	181	S.T.E.P.- H.B.T.I.
+10	188	Advanced Institute of Bio-Tech & Paramedical Sciences
+11	200	Maharana Pratap College of Pharmacy
+12	246	Dayanand Dinanath College, Institute of Pharmacy
+13	287	Naraina College of Engineering & Technology
+14	307	Dayanad Deena Nath College of Management
+15	348	PSIT College of Engineering
+16	349	Maharana Institute of Professional Studies
+17	350	Indus Institute of Technology & Management
+18	351	Krishna Institute of Technology
+19	353	Apollo Institute of Technology
+20	429	Naraina Vidya Peeth Engineering & Management Institute
+21	434	Jagran Institute of Management
+22	440	Naraina Vidya Peeth Management Institute
+23	505	Allenhouse Institute of Technology
+24	522	Maharana Prataap College of Engineering
+25	523	Vision Institute of Technology
+26	546	Seth Sriniwas Agarwal Institute of Engineering and Technology
+27	550	Kanpur Institute of Technology & Pharmacy
+28	554	Naraina Vidya Peeth Group of Institutions Faculty of Pharmacy
+29	568	Seth Sri Nivas Agarwal Institute of Management
+30	584	Banshi College of Management & Technology
+31	607	Dr Virendra Swaroop Institute of Professional Studies
+32	719	Axis Institute of Technology & Management
+33	720	Axis Institute of Fashion Technology
+34	721	Axis Institute of Architecture
+35	722	Axis Business School
+36	723	Axis Institute of Planning and Management
+37	843	Asian Institute of Management & Higher Studies
+38	848	PSIT COLLEGE OF MANAGEMENT
+39	853	NARAINA SCHOOL OF PLANNING & ARCHITECTURE
+40	887	VISION INSTITUTE OF MANAGEMENT
+41	889	Maharana Pratap College of Pharmaceutical Sciences
+42	990	DR. VIRENDRA SWARUP MEMORIAL TRUST GROUP OF INSTITUIONS , KANPUR NAGAR
+43	1137	AXIS INSTITUTE OF PHARMACY
+44	1012	KRISHNA INSTITUTE OF PHARMACY AND SCIENCES
+45	1013	SIGNA COLLEGE OF PHARMACY
+46	1014	RADHA KRISHNA COLLEGE OF PHARMACY
+47	1015	ADVANCE COLLEGE OF EDUCATION
+Kanpur Dehat
+S.No	Institute Code	Name of College
+1	254	Bhabha Institute of Technology
+2	355	Bhabha College of Engineering
+3	419	Prabhat Engineering College
+4	830	Devidayal Memorial Institutions
+5	832	Kamal Institute of Technology
+6	888	Sanskriti College of Higher Education and Studies
+Kasganj
+S.No	Institute Code	Name of College
+1	494	Sri Sri Institute of Technology & Management
+Kaushambi
+S.No	Institute Code	Name of College
+1	310	Dr. Rizvi College of Engineering, Karari
+2	364	S P Memorial Institute of Technology
+3	467	Madhu Vachaspati Institute of Engineering and Technology
+4	552	Chandra Shekhar Singh College of Pharmacy
+5	749	Madhu Vachaspati School of Management
+Lalitpur
+S.No	Institute Code	Name of College
+1	890	Late Ravindranand Baronia College of Pharmacy Mahroni
+2	891	Pahalwan Gurudeen College of Science and Technology
+3	892	Maa Gayatri College of Pharmacy Lalitpur
+Lucknow
+S.No	Institute Code	Name of College
+1	051	Faculty of Architecture, AKTU(Formerly: Lucknow College of Architecture & GCA)
+2	052	Institute of Engineering and Technology(IET)
+3	053	Azad Institute of Engineering & Technology
+4	054	B.B.D National Institute of Tech. & Management
+5	056	Babu Banarasi Das Northern India Institute of Technology
+6	057	International Institute For Special Education (IISE)
+7	058	Institute of Environment & Management
+8	059	Lal Bahadur Shastri Institute of Management & Development Studies
+9	061	Sherwood College of Management
+10	062	Motilal Rastogi School of Management
+11	122	Shri Ramswaroop College of Engineering & Management
+12	123	Saroj Institute of Technology & Management
+13	124	Institute of Co-Operative & Corporate Management, Research & Training
+14	163	Dr. M.C. Saxena College of Engineering & Technology
+15	177	Indira Gandhi Institute of Co-Operative Management
+16	189	Central Institute of Plastic Engineering & Technology
+17	196	College of Engineering, Science & Technology
+18	197	Azad Institute of Pharmacy & Research
+19	202	Hygia Institute of Pharmaceutical Education and Research
+20	203	Rameshwaram Institute of Technology & Management
+21	274	Narmadeshwar Management College
+22	303	Dr. M.C.Saxena College of Pharmacy
+23	316	Aryakul College of Pharmacy & Research
+24	357	Aryavart Institute of Technology & Management
+25	358	Rameshwaram Institute of Technology & Management
+26	360	Goel Institute of Technology & Management
+27	361	R.R. Institute of Modern Technology
+28	362	Lucknow Institute of Technology
+29	363	Ambalika Institute of Management & Technology
+30	391	Mahatma Gandhi Institute of Pharmacy
+31	392	Goel Institute of Pharmacy & Sciences
+32	396	Aryakul College of Management
+33	397	T.D.L. College of Technology & Management
+34	398	Bhalchandra Institute of Education & Management
+35	422	Bansal Institute of Engineering & Technology
+36	423	School of Management Science (SMS Institute of Technology)
+37	430	Maharana Institute of Technology & Sciences
+38	431	B.N.College of Engineering & Technology
+39	441	Central Institute of Management & Technology
+40	442	Sardar Bhagat Singh College of Technology & Management
+41	465	Himalayan Institute of Technology & Management
+42	473	G.C.R.G. Memorial Trust's Group of Institutions, Faculty of Engineering
+43	483	Institute of Technology & Management
+44	484	Lucknow Model Institute of Technology & Management
+45	485	S.R. Institute of Management & Technology
+46	508	Babu Banarasi Das Engineering College
+47	529	Saroj Institute of Management & Technology
+48	538	AKS Management College, Bakshi-Ka-Talab
+49	567	Bora Institute of Management Science
+50	572	Lucknow Institute of Pharmacy
+51	620	GCRG Memorial Trust's Group of Institutions, Faculty of Management
+52	648	Babu Sundar Singh Institute of Technology & Management
+53	649	M.G. Institute of Management & Technology
+54	660	Goel Institute of Higher Studies
+55	662	S S Institute of Management
+56	666	SRM Business School
+57	670	Lucknow Model Institute of Management
+58	672	ITM School of Architecture and Town Planning
+59	673	ITM School of Management
+60	680	City College of Management & Technology
+61	718	Heeralal Yadav Institute of Technology & Management
+62	754	DNM Institute of Engineering & Technology
+63	755	Basudev Institute of Management & Technology
+64	756	Institute of Management Research & Technology
+65	758	Shine College of Management
+66	761	Maa Vaishno Devi Educational & Law College
+67	762	Noble Institute of Management & Technology
+68	765	Remote Sensing Application Centre
+69	828	Dayal Group of Institutions
+70	829	IILM Academy of Highier Learning
+71	849	ISABELLA THOBURN COLLEGE
+72	858	Centre for Advance Studies
+73	892	F I PHARMACY COLLEGE
+74	893	GCRG COLLEGE OF PHARMACY
+75	894	GSRM MEMORIAL COLLEGE OF PHARMACY
+76	895	HYGIA INSTITUTE OF PHARMACY
+77	896	J. P. COLLEGE OF PHARMACY
+78	897	Jan Kalyan Institute of Technical Excellence
+79	898	YASH RAJ INSTITUTE OF PHARMACY
+80	899	Sri Sharda Institute Of Management and Technology
+81	1000	Hygia College Of Pharmacy
+Maharajganj
+S.No	Institute Code	Name of College
+1	235	Rajeev Gandhi College of Pharmacy
+2	472	Institute of Technology and Management
+3	900	ITM College of Pharmacy
+Mainpuri
+S.No	Institute Code	Name of College
+1	840	Rajkiya Engineering College, Mainpuri
+Mathura
+S.No	Institute Code	Name of College
+1	064	Hindustan College of Science and Technology
+2	065	B.S.A. College of Engineering & Technology
+3	066	Rajeev Academy for Pharmacy
+4	067	Hindustan Institute of Management & Computer Studies
+5	126	Sachdeva Institute of Technology
+6	173	Rajeev Academy for Technology & Management
+7	239	Ishwarchand Vidyasagar Institute of Technology, Akbarpur
+8	267	Sanjay College of Pharmacy
+9	471	Eshan group of Institute
+10	511	G.L. Bajaj Group of Institutions, Mathura Delhi Highway
+11	536	Shree Jee Baba Institute of Professional Studies, Semari Chata
+12	581	Shri Giriraj Maharaj Institute of Management, Mundesi Kosi Khurd
+13	602	Aashlar Business School, Mahuan, Near Toll Plaza
+14	605	Unnati Management College, Daulatpur, Farah
+15	668	Edify Institute of Management & Technology
+16	704	Shree Jee Goverdhan Maharaj College of Professional Studies
+17	781	Hardayal Technical Campus
+18	822	Eshan College of Management
+19	901	Divya College of Pharmacy
+20	902	NSS College of Management
+Mau
+S.No	Institute Code	Name of College
+1	763	Maa Bhagwata Kunwar Institute of Management
+Meerut
+S.No	Institute Code	Name of College
+1	068	Meerut Institute of Engineering and Technology
+2	069	Radha Govind Group of Institutions
+3	070	College of Engineering & Rural Technology
+4	074	Dewan Institute of Management Studies
+5	127	IIMT Engineering College
+6	128	Bharat Institute of Technology
+7	129	Forte Institute of Technology
+8	157	Institute of Hotel Management, Catering Technology & Applied Nutrition
+9	159	J.P. Institute of Hotel Management & Catering Technology
+10	174	Kishan Institute of Information Technology
+11	182	Kalka Institute for Research & Advanced Studies
+12	201	NKBR College of Pharmacy & Research Centre
+13	206	Translam Institute of Pharmaceutical Education & Research, Rajpura, Mawana Road
+14	229	Vidya College of Engineering
+15	263	Vidya School of Business
+16	266	LTR Institute of Technology, Dharamsala-Bhagpat Road
+17	271	Bharat Institute of Technology (MBA Institute)
+18	282	J.P. Institute of Engineering & Technology
+19	285	Institute of Technology & Management, Meerut-Baghpat Road, Panchli
+20	292	Meerut Institute of Technology, Baral, Partapur
+21	311	Deewan V.S. Institute of Engineering & Technology
+22	312	ABSS Institute of Technology, Mawana Road
+23	318	Vidya Institute of Fashion Technology, Baghpat Road
+24	321	Translam Institute of Technology & Management, Mawana Road
+25	370	Shanti Institute of Technology, Kurali, Baghpat Road
+26	372	KITE Group of Institutions, KITE School of Engineering and Technology
+27	373	Neelkanth Institute of Technology, Pawli Khas, Modipuram
+28	374	Rishi Institute of Engineering & Technology, Partapur
+29	377	Gyan Bharti Institute of Technology, Partapur Bypass Road
+30	425	Meerut International Institute of Technology
+31	444	Mahaveer Institute of Technology, Sardhana Road
+32	487	Panchwati Institute of Engineering & Technology, Delhi- Hardwar Bypass
+33	488	Shri Nath Ji Institute for Technical Education, VIll-Ghat, Delhi- Roorkee Bypass
+34	496	FIT Engineering College, Kaseru Buxar
+35	498	Delhi Institute of Engineering and Technology
+36	514	Faculty of Engineering, Shanti Niketan Trust's Group of Institutions, Mohiuddinpur
+37	540	Krishna Institute of Management, Bana, Mawana Road
+38	544	Kalka Engineering College, Partapur Bypass Road
+39	548	Dewan V.S. Institute of Hotel Management & Technology
+40	557	Shanti Niketan Trust's Group of Institutions, Faculty of Management, Mohiuddinpur
+41	593	Vinayak Vidyapeeth, Pawli khas, Modipuram
+42	609	J P School of Business, Salarpur, Jalalpur, Rajpura
+43	623	Bharti Institute of Management & Technology, Kila Road, Rali Chauhan
+44	644	SVS Group of Institutions
+45	682	BIMT College
+46	709	Gauri Vidya Peeth Business School
+47	711	Vishveshwarya College of Education, Mawana
+48	716	Mahaveer Institute of Engineering and Technology
+49	732	Rudra Group of Institutions
+50	789	Dayanand Vidhyapeeth Education
+51	804	APS College of Education & Technology
+52	817	AR Institute of Management & Technology
+53	821	Mahaveer College of Pharmacy
+54	835	LTR Institute of Management
+55	903	APS College of Education
+Mirzapur
+S.No	Institute Code	Name of College
+1	076	Ghanshyam Binani Academy of Management Sciences
+2	904	Apex Institute of Pharmacy
+3	905	Vindhya Gurukul College of Pharmacy
+Moradabad
+S.No	Institute Code	Name of College
+1	082	Moradabad Institute of Technology
+2	410	R.S.D. Academy, College of Management & Technology
+3	521	Kothiwal Institute of Technology & Professional Studies, Pachokara Haridwar Road
+4	549	Radha Govind Institute of Pharmacy, Moradabad-Chandausi Road
+5	598	Moradabad Educational Trust (MET) Group of Institutions, Faculty of Pharmacy
+6	614	Shree Satya Institute of Management, Lodhipur Rajput, Palbara
+7	631	Moradabad Educational Trust (MET) Group of Institutions, Faculty of B. Architecture
+8	702	MIT College of Management
+9	906	R.K. College of Pharmacy
+Muzaffarnagar
+S.No	Institute Code	Name of College
+1	1026	Shri Ram College of Pharmacy
+2	083	S.D.College of Engineering and Technology
+3	084	Bhagwant Institute of Technology
+4	085	S.D.College of Management Studies, Bhopa Road
+5	136	S.D. College of Pharmacy & Vocational Studies
+6	219	Bhagwant Institute of Pharmacy
+7	249	Sri Ram College of Management
+8	695	Shri Ram Group of Colleges
+Raebareli
+S.No	Institute Code	Name of College
+1	187	Feroze Gandhi Institute of Engineering & Technology
+2	534	Mahaveer Institute of Technology and Management
+Rampur
+S.No	Institute Code	Name of College
+1	280	Apex Institute of Technology
+Saharanpur
+S.No	Institute Code	Name of College
+1	299	Doon College of Education
+2	502	Dev Bhoomi Groups of Institutions
+3	520	Indraprastha Institute of Management & Technology
+4	561	Hari College of Management, Gagalheri
+5	586	Dev Bhoomi Groups of Institutions, Faculty of Computer Application
+6	621	Dev Bhoomi Groups of Institutions, Faculty of Management
+7	636	Saharanpur Institute of Advance Studies, Gokelpur
+8	698	Dwarikadheesh Research Education & Management School
+9	791	Disha Bharti College of Management & Education
+10	811	Forth Dimension College of Architecture
+11	842	Devrishi Institute of Management & Technology
+12	854	Saharanpur Pharmacy College
+13	856	Veer Vijay Pharmacy College
+14	426	Doon College of Engg. & Technology
+Shahjahanpur
+S.No	Institute Code	Name of College
+1	582	Sun Institute of Management and Technology
+2	583	Lakshya Institute of Management & Information Technology
+3	753	Lakshya Technical Campus
+Sitapur
+S.No	Institute Code	Name of College
+1	134	Sacred Heart Institute of Management & Technology
+2	221	Institute of Engineering and Technology
+3	258	Institute of Pharmacy
+Sonbhadra
+S.No	Institute Code	Name of College
+1	841	Rajkiya Engineering College, Sonbhadra
+Sultanpur
+S.No	Institute Code	Name of College
+1	104	Kamla Nehru Institute of Technology
+2	135	Kamla Nehru Institute Of Physical & Social Sciences, Management Institute
+3	167	Rajarshi Rananjay Singh College of Pharmacy
+4	186	Kamla Nehru Institute of Management & Technology
+5	382	Kamla Nehru Institute of Physical & Social Sciences
+6	383	Rajarshi Rananjay Singh Institute of Management & Technology
+Unnao
+S.No	Institute Code	Name of College
+1	262	Institute of Pharmaceutical Sciences & Research
+2	427	Mahatma Gandhi Universe Institute
+3	446	Institute of Professional Studies & Research (IPSR)
+4	527	Sunrise Institute of Engineering Technology & Management
+5	640	Dr Virendra Swarup Memorial Trust Group of Institutions
+6	714	Kanpur Institute of Management Studies
+7	745	Shri Rammurti Smarak College of Engineering & Technology
+Varanasi
+S.No	Institute Code	Name of College
+1	106	School of Management Sciences
+2	107	Institute of Computer Science & Technology
+3	108	Rajarshi School of Management and Technology (RSMT)
+4	154	Faculty of Management and Technology
+5	179	Jeevandeep Institute of Management & Technology
+6	205	Institute of Pharmacy
+7	248	Society of Advanced Management Studies, Institute of Hotel Management
+8	300	Saraswati Higher Education & Technical College of Pharmacy
+9	384	Saraswati Higher Education & Technical College of Engineering
+10	393	College of Pharmacy
+11	428	Kashi Institute of Technology
+12	551	Kashi Institute of Pharmacy
+13	641	Ashoka Institute of Technology & Management
+14	747	Raj School of Management & Sciences
